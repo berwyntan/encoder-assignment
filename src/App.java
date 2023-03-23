@@ -26,7 +26,7 @@ public class App {
         }
     }
 
-    public static char offset = 'B';
+    public static char offset = 'A';
     public static final String REFERENCE_TABLE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789()*+,-./";
 
     public static String askUserCommand() {
